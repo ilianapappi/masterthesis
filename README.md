@@ -1,2 +1,2 @@
 # masterthesis
-Event Recognition in surveillance videos.
+Recommendations for post popularity prediction
